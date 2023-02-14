@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 1.new test will changed now
-=======
-newfile added from remote
->>>>>>> 92e5a6a2142923f988a21b2dc34a7eb6fd3510a6
+
+3.2 newly added alfa-remote branch
+
